@@ -1,0 +1,7 @@
+{
+    "name": "Aftership API Integration",
+    "description": "Aftership API Integration",
+    "repository": "https://github.com",
+    "logo": "https://github.com/g",
+    "keywords": ["node", "typescript","Aftership"]
+  }
